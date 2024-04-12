@@ -47,6 +47,6 @@ Tools Used:
 ---------------------------------------------------------------------------------------------------------------
 Key Findings:
 
-- The dataset includes information on 21 different car-making companies and 80 different car models.
+- The dataset includes information on 20 different car-making companies and 77 different car models.
 - Gasoline is the highest unit sold fuel type, surpassing electric and hybrid.
 - SUV and Sedan are the highest sold body types compared to others.
